@@ -139,7 +139,7 @@ h6 {
   background-repeat: no-repeat;
   background-position: center;
   background-size: 191px 285px;
-  width: 191px;
+  max-width: 191px;
   height: 285px;
 }
 
@@ -151,7 +151,7 @@ h6 {
   position: absolute;
   top: 176px;
   left: calc(50% - 80px);
-  width: 160px;
+  max-width: 160px;
   height: 100px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -208,7 +208,7 @@ h6 {
   background-repeat: no-repeat;
   background-position: center;
   background-size: 191px 285px;
-  width: 191px;
+  max-width: 191px;
   height: 285px;
 }
 
@@ -220,7 +220,7 @@ h6 {
   position: absolute;
   top: 176px;
   left: calc(50% - 80px);
-  width: 160px;
+  max-width: 160px;
   height: 100px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -243,7 +243,7 @@ h6 {
   background-repeat: no-repeat;
   background-position: center;
   background-size: 189px 145px;
-  width: 189px;
+  max-width: 189px;
   height: 145px;
 }
 
@@ -259,7 +259,7 @@ h6 {
   position: absolute;
   top: 25px;
   left: calc(50% - 80px);
-  width: 160px;
+  max-width: 160px;
   height: 100px;
   display: -webkit-box;
   display: -ms-flexbox;
