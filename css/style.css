@@ -568,6 +568,9 @@ h6 {
   height: auto;
   margin-bottom: 20px;
 }
+.menu-burger .webp .menu li {
+  background-image: none;
+}
 
 .menu-burger .menu li:last-of-type {
   margin-bottom: 0;
